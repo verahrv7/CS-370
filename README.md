@@ -1,5 +1,7 @@
 CS 370: Pirate Intelligent Agent
+
 Project Overview
+
 For this project, I worked on training an intelligent pirate agent to find treasure in a maze. The goal was to help the pirate learn which moves to make instead of giving it a set path to follow. I used deep Q-learning, which allowed the agent to learn from its experiences and improve its decisions over time.
 What Code Was Provided, and What Did I Create?
 I was given starter code for the project, including the TreasureMaze environment, the GameExperience class, and parts of the Jupyter Notebook. These provided the maze rules, ways to track the agent's experiences, and functions to help test its performance.
